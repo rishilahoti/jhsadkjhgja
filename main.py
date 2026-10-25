@@ -1,0 +1,1 @@
+"""extract product names, displayed prices, and links from MDComputers search."""
